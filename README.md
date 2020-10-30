@@ -9,7 +9,7 @@
 ### ***Objectives***
 
 * Establish a clear process by which to pull the starter code before the lesson each day
-* Aquire an understanding of and comfort with using various commands in Git
+* Aquire an understanding of and comfort with using various commands 
 ***
 
 ### ***Getting Started***
